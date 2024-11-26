@@ -22,4 +22,4 @@ This is the repository for the **Personal Blog Project**, created as part of my 
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/personal-blog-project.git
+   git clone https://github.com/alpkarakoc/personal-blog-project.git
